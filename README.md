@@ -1,6 +1,12 @@
 # Hello 👋
 
-- my main thing is just my public cog repo. i do nothing special. :P
+Welcome to my github page which has nearly nothing here. xD
 
+- my main prosjects is [my cogs](https://github.com/ltzmax/maxcogs)
+- my public bot [Voltra](https://itzmax.me), feel free to invite if you want.
 
-![ltzmax's github stats](https://github-readme-stats.vercel.app/api?username=ltzmax&show_icons=true&theme=radical)
+Feel free to join support server if you have any questions, need help with the bot or cogs. [You find it here](https://discord.gg/Duz336X)
+
+![ltzmax's github stats](https://github-readme-stats.vercel.app/api?username=ltzmax&show_icons=true&theme=Gradient)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ltzmax&repo=maxcogs)](https://github.com/ltzmax/maxcogs)
