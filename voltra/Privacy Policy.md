@@ -20,7 +20,7 @@ We would like to make sure you are fully aware of all of your data protection ri
 You can get your data from `v.mydata getmydata` but this does not do anything yet, Soon TM.
 
 ## Links
-- [support server](https://discord.gg/Duz336X)
+- [Support server](https://discord.gg/Duz336X)
 - [Invite voltra](https://discord.com/oauth2/authorize?client_id=563787458135719967&scope=bot+applications.commands&permissions=3187145846)
 - [Home page](https://itzmax.me)
 - [Dashboard](https://dashboard.itzmax.me)
