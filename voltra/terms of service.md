@@ -78,5 +78,5 @@ You agree that the original English text shall prevail in the case of a dispute.
 <h1>Contact Us</h1>
 <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="https://discord.gg/Duz336X" rel="external nofollow noopener" target="_blank">https://discord.gg/Duz336X</a></li>
+<li>By visiting this page on our website: <a href="https://discord.gg/Duz336X" rel="external nofollow noopener" target="_blank">voltrabot@aol.com</a></li>
 </ul>
