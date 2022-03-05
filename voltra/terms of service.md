@@ -81,7 +81,4 @@ You agree that the original English text shall prevail in the case of a dispute.
 <li>
 <p>By email: voltrabot@aol.com</p>
 </li>
-<li>
-<p>By mail: voltrabot@aol.com</p>
-</li>
 </ul>
