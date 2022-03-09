@@ -1,7 +1,14 @@
+**Last updated: March 09th 2022.**
+
 ## By using our Bot, you agree that you have read and agree to this policy.
 
 ## Message Tracking
-Voltra's auto-moderation tracks everything sent by every users in all channels it has access to read and views. It does not store any of this locally to our server. Voltra also log every single command usage any users, mods, server owners and administration uses. These does not log locally either, these is only stored in our console. This data deletes after bot restart.
+Voltra's auto-moderation tracks everything sent by every users in all channels it has access to read and views. It does not store any of this locally to our server. 
+
+Voltra also log every single command usage any users, mods, server owners and administration uses. These does not log locally either, these is only stored in our console. This data deletes after bot restart.
+
+## Message content
+Administrations and moderators may use logging features such as modlog to log actions and or deleted messages by users / done by mod admin or guild owners. These are not stored on our bot. it is only stored in set channel for the logging you want it to be sent to.
 
 ## UserData
 This bot stores some data about users as necessary to function. This is mostly the ID your user is assigned by Discord, linked to a handful of things depending on what you interact with in the bot. There are a few commands which store it to keep track of who created something. (such as playlists). Additionally, 3rd party addons loaded by the bot's owner may or may not store additional things. You can use `v.mydata 3rdparty` to view the statements provided by each 3rd-party addition. This command uses html.
