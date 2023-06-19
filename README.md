@@ -6,4 +6,4 @@ Well anyway, i'm max and i do code stuff i find useful for myself and what i bel
 
 ## Links
 - my main projects is [my cogs](https://github.com/ltzmax/maxcogs)
-- my semi public bot [Voltra](https://voltrabot.com).
+- my semi public bot [Atticus](https://atticusbot.com).
