@@ -1,9 +1,5 @@
 # Hello 👋
-
-Welcome to my github page which has nearly nothing here.
-
-Well anyway, i'm max and i do code stuff i find useful for myself and what i believe people find useful to use for their discord bot.
+I'm a cog developer, those cogs works only on [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot). I build cogs that I find useful for myself, and that i believe could be valuable for others to use on their bots. This page might be a bit light on content right now but anyway. 
 
 ## Links
 - my main projects is [my cogs](https://github.com/ltzmax/maxcogs)
-- my semi public bot [Atticus](https://atticusbot.com).
